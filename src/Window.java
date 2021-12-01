@@ -74,6 +74,10 @@ public class Window extends JFrame implements ActionListener {
                     frame.getContentPane().setBackground(Color.red);
                 }
             }
+            else
+            {
+                frame.getContentPane().setBackground(Color.red);
+            }
         }
 
     }
