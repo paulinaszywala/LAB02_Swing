@@ -57,6 +57,7 @@ public class Window extends JFrame implements ActionListener {
         {
             tLogin.setText("");
             pPassword.setText("");
+            frame.getContentPane().setBackground(Color.white);
         }
        else if(source == bLogin)
         {
